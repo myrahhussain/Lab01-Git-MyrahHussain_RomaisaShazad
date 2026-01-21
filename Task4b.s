@@ -3,8 +3,6 @@
 
 main:
 
-
-
     # 4b:
 
     # Array A
