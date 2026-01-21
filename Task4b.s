@@ -49,7 +49,7 @@ main:
     lb x28, 0x101(x0) # Loading A[1]
     lh x29, 0x202(x0) # Loading B[1]
     add x30, x28, x29
-    sw x30, 0x304(x0) # Storing C[1] as character array
+    sw x30, 0x304(x0) # Storing C[1] 
 
     # i = 2 C[2] = A[2] + B[2]
     # C[2] =3 + 7 = 10

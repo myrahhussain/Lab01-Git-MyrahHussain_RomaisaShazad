@@ -3,7 +3,7 @@
 main:
     li x20, 5 # a = 5
     li x21, 0 # b = 0
-    addi x21, x21, 0 # b = b + 0
+    
     addi x21, x21, 0 # b = b + 0
     addi x20, x21, 32 # a = b + 32
     li x22, 0 # d = 0
